@@ -2,6 +2,8 @@
 
 Feel free to use it as you please. Consider donating if you want to support further development.
 
+test edit
+
 SONOS HTTP API
 ==============
 
