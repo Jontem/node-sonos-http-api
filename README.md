@@ -2,7 +2,7 @@
 
 Feel free to use it as you please. Consider donating if you want to support further development.
 
-test edit
+test edit 2
 
 SONOS HTTP API
 ==============
